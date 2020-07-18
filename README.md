@@ -20,7 +20,7 @@ I am a UI/UX Designer and Frontend Developer with 12+ years of experience.
 
 My area of focus lies in designing web and mobile products, user research as well as leading of design & front-end teams. I enjoy designing and coding the UI as much as talking with users to iterate and improve the experiences that reach business goals.
 
-🌱  Currently learning - React / React Native / Shopify
+🌱  Currently learning - Shopify / Hugo and advanced concepts in React / React Native
 
 🔭  I am trying to build a pool of free HTML/CSS blocks in Bootstrap, Foundation and Tailwind CSS and other web design and development related resources -
 [FWR](//fw-r.in/home)
