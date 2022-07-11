@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Rhythm_Ruparelia-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:rhythm.19@gmail.com)
 -->
 
-I am a UI/UX Designer and Frontend Developer with 12+ years of experience.
-<br>Currently working as Senior Frontend Developer with **Noovosoft**.
+I am a UI/UX Designer and Frontend Developer with 14+ years of experience.
+<br>Currently working as UI/UX Designer + Senior Frontend Developer with **Liventus**.
 
 My area of focus lies in designing web and mobile products, user research as well as leading of design & front-end teams. I enjoy designing and coding the UI as much as talking with users to iterate and improve the experiences that reach business goals.
 
 🌱  Currently learning - Shopify / Hugo and advanced concepts in React / React Native
+
+<!_-
+🔭  I am trying to build a pool of free HTML/CSS blocks in Bootstrap, Foundation and Tailwind CSS and other web design and development related resources -
+[FWR](//fw-r.in/home)
+
+💬  Let me know if you have a good project or opportunity to offer.
+-->
 
 ---
 
