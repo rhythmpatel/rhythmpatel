@@ -20,7 +20,7 @@ I am a UI/UX Designer and Frontend Developer with 17+ years of experience.
 
 My area of focus lies in designing web and mobile products, user research as well as leading of design & front-end teams. I enjoy designing and coding the UI as much as talking with users to iterate and improve the experiences that reach business goals.
 
-🌱  Current tech stack  - Next JS | React-Node-Express | Bootstrap/Taliwind CSS | React Native
+🌱  Current tech stack  - FE: NextJS-React-Redux | CSS: Bootstrap/Taliwind CSS | BE: Node-Express | Mobile: React Native
 
 ---
 
