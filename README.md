@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Rhythm_Ruparelia-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:rhythm.19@gmail.com)
 -->
 
-I am a UI/UX Designer and Frontend Developer with 14+ years of experience.
-<br>Currently working as UI/UX Designer + Senior Frontend Developer with **Liventus**.
+I am a UI/UX Designer and Frontend Developer with 17+ years of experience.
+<br>Currently working as Lead Designer / Tech Lead with **Liventus**.
 
 My area of focus lies in designing web and mobile products, user research as well as leading of design & front-end teams. I enjoy designing and coding the UI as much as talking with users to iterate and improve the experiences that reach business goals.
 
-🌱  Currently working on - Next JS | React - Node - Exprss | Taliwind CSS | React Native
+🌱  Current tech stack  - Next JS | React-Node-Express | Bootstrap/Taliwind CSS | React Native
 
 ---
 
